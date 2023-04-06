@@ -1,4 +1,7 @@
 # Stock-Analyzer-Python
+ 
+นี่คือ การวิเคราะห์ข้อมูลไพทอน
+
 
 ## Features:
 - Real time scrapping of stock data in order to get the most recent available information.
